@@ -1,4 +1,5 @@
 static void main()
 {
-	asdasdasd
+	asdasdasd();
+	asdasdasdsdasdasd
 }
